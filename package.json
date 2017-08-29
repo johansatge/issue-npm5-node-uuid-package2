@@ -1,0 +1,8 @@
+{
+  "name": "issue-npm5-node-uuid-package2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^3.0.0"
+  }
+}
